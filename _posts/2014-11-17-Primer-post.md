@@ -6,8 +6,9 @@ categories: jekyll update
 --- 
 Este es mi primer articulo en el blog que estoy creando utilizando jekyll. 
 
-
 [<img src="https://raw.githubusercontent.com/franchescomora/blogDePrueba7/gh-pages/_images/car.jpeg" width="50%" align="right">](http://es.wikipedia.org/wiki/F%C3%B3rmula_1)
+
+![Enlace](home/franchesco/blogDePrueba7/_images/car.jpeg)
 
 En la imagen se observa un auto de carreras, el cual se utilizo para probar uno de las maneras de hacer inserción de imágenes en un post de un blog hecho con Jekkyl.
 
